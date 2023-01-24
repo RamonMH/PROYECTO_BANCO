@@ -1,0 +1,15 @@
+
+6281	Ramon	Mendoza	10-12-99	debito	7000.000000
+13117	Mario	Rojas	26-04-99	credito	5000.000000
+5284	Ali	Perez	08-10-99	debito	3000.000000
+7638	Sofia	Zamora	08-01-01	debito	2000.000000
+7829	Fer	Lazos	18-03-00	credito	10000.000000
+8629	Carlos	Garcia	01-02-00	credito	7000.000000
+7974	Daniela	Rendon	21-09-01	debito	3000.000000
+7332	Aldo	Ruiz	29-12-00	credito	10000.000000
+7657	Joshua	Gomez	15-10-99	credito	5000.000000
+9068	Mariana	Lopez	02-01-99	debito	2500.000000
+14736	Gerardo	Cabrera	04-08-99	debito	3000.000000
+11629	Ruben	Sanchez	14-09-00	debito	1200.000000
+9291	Tania	Arista	30-06-00	credito	3000.000000
+9849	hola	hola	12-09-99	credito	30000.000000
